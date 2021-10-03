@@ -1,0 +1,16 @@
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\bin\Debug\net5.0\Covert_Age_To_Days_Or_Minute.exe
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\bin\Debug\net5.0\Covert_Age_To_Days_Or_Minute.deps.json
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\bin\Debug\net5.0\Covert_Age_To_Days_Or_Minute.runtimeconfig.json
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\bin\Debug\net5.0\Covert_Age_To_Days_Or_Minute.runtimeconfig.dev.json
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\bin\Debug\net5.0\Covert_Age_To_Days_Or_Minute.dll
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\bin\Debug\net5.0\ref\Covert_Age_To_Days_Or_Minute.dll
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\bin\Debug\net5.0\Covert_Age_To_Days_Or_Minute.pdb
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\obj\Debug\net5.0\Covert_Age_To_Days_Or_Minute.csproj.AssemblyReference.cache
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\obj\Debug\net5.0\Covert_Age_To_Days_Or_Minute.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\obj\Debug\net5.0\Covert_Age_To_Days_Or_Minute.AssemblyInfoInputs.cache
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\obj\Debug\net5.0\Covert_Age_To_Days_Or_Minute.AssemblyInfo.cs
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\obj\Debug\net5.0\Covert_Age_To_Days_Or_Minute.csproj.CoreCompileInputs.cache
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\obj\Debug\net5.0\Covert_Age_To_Days_Or_Minute.dll
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\obj\Debug\net5.0\ref\Covert_Age_To_Days_Or_Minute.dll
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\obj\Debug\net5.0\Covert_Age_To_Days_Or_Minute.pdb
+E:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\obj\Debug\net5.0\Covert_Age_To_Days_Or_Minute.genruntimeconfig.cache
