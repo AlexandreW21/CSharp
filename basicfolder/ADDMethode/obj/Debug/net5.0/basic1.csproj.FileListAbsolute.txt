@@ -1,0 +1,16 @@
+E:\Coding\C#\basicfolder\basic1\bin\Debug\net5.0\basic1.exe
+E:\Coding\C#\basicfolder\basic1\bin\Debug\net5.0\basic1.deps.json
+E:\Coding\C#\basicfolder\basic1\bin\Debug\net5.0\basic1.runtimeconfig.json
+E:\Coding\C#\basicfolder\basic1\bin\Debug\net5.0\basic1.runtimeconfig.dev.json
+E:\Coding\C#\basicfolder\basic1\bin\Debug\net5.0\basic1.dll
+E:\Coding\C#\basicfolder\basic1\bin\Debug\net5.0\ref\basic1.dll
+E:\Coding\C#\basicfolder\basic1\bin\Debug\net5.0\basic1.pdb
+E:\Coding\C#\basicfolder\basic1\obj\Debug\net5.0\basic1.csproj.AssemblyReference.cache
+E:\Coding\C#\basicfolder\basic1\obj\Debug\net5.0\basic1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\basicfolder\basic1\obj\Debug\net5.0\basic1.AssemblyInfoInputs.cache
+E:\Coding\C#\basicfolder\basic1\obj\Debug\net5.0\basic1.AssemblyInfo.cs
+E:\Coding\C#\basicfolder\basic1\obj\Debug\net5.0\basic1.csproj.CoreCompileInputs.cache
+E:\Coding\C#\basicfolder\basic1\obj\Debug\net5.0\basic1.dll
+E:\Coding\C#\basicfolder\basic1\obj\Debug\net5.0\ref\basic1.dll
+E:\Coding\C#\basicfolder\basic1\obj\Debug\net5.0\basic1.pdb
+E:\Coding\C#\basicfolder\basic1\obj\Debug\net5.0\basic1.genruntimeconfig.cache
