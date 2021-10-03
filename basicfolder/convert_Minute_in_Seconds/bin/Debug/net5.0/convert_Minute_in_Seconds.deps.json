@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "convert_Minute_in_Seconds/1.0.0": {
+        "runtime": {
+          "convert_Minute_in_Seconds.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "convert_Minute_in_Seconds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

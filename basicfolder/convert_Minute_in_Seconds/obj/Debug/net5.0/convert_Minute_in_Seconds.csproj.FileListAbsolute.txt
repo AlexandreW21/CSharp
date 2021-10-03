@@ -1,0 +1,16 @@
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\obj\Debug\net5.0\convert_Minute_in_Seconds.csproj.AssemblyReference.cache
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\obj\Debug\net5.0\convert_Minute_in_Seconds.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\obj\Debug\net5.0\convert_Minute_in_Seconds.AssemblyInfoInputs.cache
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\obj\Debug\net5.0\convert_Minute_in_Seconds.AssemblyInfo.cs
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\obj\Debug\net5.0\convert_Minute_in_Seconds.csproj.CoreCompileInputs.cache
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\bin\Debug\net5.0\convert_Minute_in_Seconds.exe
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\bin\Debug\net5.0\convert_Minute_in_Seconds.deps.json
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\bin\Debug\net5.0\convert_Minute_in_Seconds.runtimeconfig.json
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\bin\Debug\net5.0\convert_Minute_in_Seconds.runtimeconfig.dev.json
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\bin\Debug\net5.0\convert_Minute_in_Seconds.dll
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\bin\Debug\net5.0\ref\convert_Minute_in_Seconds.dll
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\bin\Debug\net5.0\convert_Minute_in_Seconds.pdb
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\obj\Debug\net5.0\convert_Minute_in_Seconds.dll
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\obj\Debug\net5.0\ref\convert_Minute_in_Seconds.dll
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\obj\Debug\net5.0\convert_Minute_in_Seconds.pdb
+E:\Coding\C#\basicfolder\convert_Minute_in_Seconds\obj\Debug\net5.0\convert_Minute_in_Seconds.genruntimeconfig.cache
