@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Covert_Age_To_Days_Or_Minute
-build_property.ProjectDir = e:\Coding\C#\basicfolder\Covert_Age_To_Days_Or_Minute\
+build_property.RootNamespace = testpad
+build_property.ProjectDir = e:\Coding\C#\basicfolder\testpad\

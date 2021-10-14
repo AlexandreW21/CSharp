@@ -32,8 +32,6 @@ namespace basic
                 {
                     System.Console.WriteLine("Buzz");   
                 }
-                
-
                 else
                 {
                     System.Console.WriteLine(i);    

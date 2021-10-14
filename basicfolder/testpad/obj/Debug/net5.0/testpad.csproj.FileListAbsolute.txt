@@ -1,0 +1,16 @@
+E:\Coding\C#\basicfolder\testpad\obj\Debug\net5.0\testpad.csproj.AssemblyReference.cache
+E:\Coding\C#\basicfolder\testpad\obj\Debug\net5.0\testpad.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\basicfolder\testpad\obj\Debug\net5.0\testpad.AssemblyInfoInputs.cache
+E:\Coding\C#\basicfolder\testpad\obj\Debug\net5.0\testpad.AssemblyInfo.cs
+E:\Coding\C#\basicfolder\testpad\obj\Debug\net5.0\testpad.csproj.CoreCompileInputs.cache
+E:\Coding\C#\basicfolder\testpad\bin\Debug\net5.0\testpad.exe
+E:\Coding\C#\basicfolder\testpad\bin\Debug\net5.0\testpad.deps.json
+E:\Coding\C#\basicfolder\testpad\bin\Debug\net5.0\testpad.runtimeconfig.json
+E:\Coding\C#\basicfolder\testpad\bin\Debug\net5.0\testpad.runtimeconfig.dev.json
+E:\Coding\C#\basicfolder\testpad\bin\Debug\net5.0\testpad.dll
+E:\Coding\C#\basicfolder\testpad\bin\Debug\net5.0\ref\testpad.dll
+E:\Coding\C#\basicfolder\testpad\bin\Debug\net5.0\testpad.pdb
+E:\Coding\C#\basicfolder\testpad\obj\Debug\net5.0\testpad.dll
+E:\Coding\C#\basicfolder\testpad\obj\Debug\net5.0\ref\testpad.dll
+E:\Coding\C#\basicfolder\testpad\obj\Debug\net5.0\testpad.pdb
+E:\Coding\C#\basicfolder\testpad\obj\Debug\net5.0\testpad.genruntimeconfig.cache
