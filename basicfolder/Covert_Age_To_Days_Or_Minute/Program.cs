@@ -6,33 +6,37 @@ namespace Covert_Age_To_Days_Or_Minute
     {
         static void Main(string[] args)
         {
-            DateTime curentTime = DateTime.Now;
-
-            System.Console.WriteLine($"Pls right your date of birth \n The syntax is:  {curentTime}");
-
+/*
+    Futur  improuvement: 
+        check the some error:
+        - imput formate of the user 
+        - if the time/date/year are not correct of to much
+        - and can work with DateTime  for beter result like datetime.now - pass the inputuser in datetime format 
+        - ofcourse try and catch 
+        - and Xunit to do 
+*/
             string DOBUser = Console.ReadLine();  // input user DOB
-
             char[] deliniter = {' ', ':', '/', '\t'};       // carater splite 
             string[] stringUserdob =  DOBUser.Split(deliniter);    // array of the user DOB
-            int[] userdob = Array.ConvertAll(stringUserdob, S => int.Parse(S)); // convert  all the array int string
-            // int dateuser = userdob[0];
-            // int monthuser = userdob[1];
-            // int yearuser = userdob[2];
-            // int houruser = userdob[3];
-            // int minuser = userdob[4];
-            
+            int[] userdob = Array.ConvertAll(stringUserdob, S => int.Parse(S)); // convert  all the array int string            
 
             int totalday = 0;
             int totalInMinute = 0;
+
+            System.Console.WriteLine($"Pls right your date of birth \n The syntax is:  { DateTime.Now}");
+
+            
             
 
-            for(var a = userdob[2]; a < curentTime.Year; a = a + 4)   // add the extra day of the Leap year  == 366 day 
+            for(var a = userdob[2]; a < DateTime.Now.Year; a = a + 4)   // add the extra day of the Leap year  == 366 day 
             {
                 totalday ++;
             }
-            totalday += (userdob[2] * 365);
+            totalday = totalday + ( DateTime.Now.Year - userdob[2] ) * 365;
+            System.Console.WriteLine($"{userdob[0]} {userdob[1]} {userdob[2]} {userdob[3]} {userdob[4]}    \n  {totalday}");
 
-            //calcule the number of day in this current year 
+
+            // calcule the number of day in this current year 
             for (var D = 0; D <= userdob[1] -1 ; D++)  
             {
                 if (D == 2) // February has 28 days
@@ -52,12 +56,13 @@ namespace Covert_Age_To_Days_Or_Minute
             {
                 totalInMinute ++;
             } 
-            foreach (var item in userdob)
-            {
-                System.Console.WriteLine(item);
-            }
-            System.Console.WriteLine(totalday);
-            System.Console.WriteLine(totalInMinute);
+            // foreach (var item in userdob)
+            // {
+            //     System.Console.WriteLine(item);
+            // }
+            System.Console.WriteLine($"You lived for :\t\t{totalday} Days.");
+            totalInMinute = (totalday * 24) + (userdob[3] * 60) + userdob[4];
+            System.Console.WriteLine($"Total in mins is:  \t{totalInMinute} mins. ");
 
             
 
