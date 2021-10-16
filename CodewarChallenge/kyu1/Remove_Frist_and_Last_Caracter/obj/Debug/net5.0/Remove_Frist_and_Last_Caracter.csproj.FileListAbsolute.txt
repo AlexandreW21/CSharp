@@ -1,0 +1,16 @@
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\bin\Debug\net5.0\Remove_Frist_and_Last_Caracter.exe
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\bin\Debug\net5.0\Remove_Frist_and_Last_Caracter.deps.json
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\bin\Debug\net5.0\Remove_Frist_and_Last_Caracter.runtimeconfig.json
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\bin\Debug\net5.0\Remove_Frist_and_Last_Caracter.runtimeconfig.dev.json
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\bin\Debug\net5.0\Remove_Frist_and_Last_Caracter.dll
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\bin\Debug\net5.0\ref\Remove_Frist_and_Last_Caracter.dll
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\bin\Debug\net5.0\Remove_Frist_and_Last_Caracter.pdb
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\obj\Debug\net5.0\Remove_Frist_and_Last_Caracter.csproj.AssemblyReference.cache
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\obj\Debug\net5.0\Remove_Frist_and_Last_Caracter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\obj\Debug\net5.0\Remove_Frist_and_Last_Caracter.AssemblyInfoInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\obj\Debug\net5.0\Remove_Frist_and_Last_Caracter.AssemblyInfo.cs
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\obj\Debug\net5.0\Remove_Frist_and_Last_Caracter.csproj.CoreCompileInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\obj\Debug\net5.0\Remove_Frist_and_Last_Caracter.dll
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\obj\Debug\net5.0\ref\Remove_Frist_and_Last_Caracter.dll
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\obj\Debug\net5.0\Remove_Frist_and_Last_Caracter.pdb
+E:\Coding\C#\CodewarChallenge\kyu1\Remove_Frist_and_Last_Caracter\obj\Debug\net5.0\Remove_Frist_and_Last_Caracter.genruntimeconfig.cache

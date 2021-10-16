@@ -1,0 +1,16 @@
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\obj\Debug\net5.0\My_head_is_at-the_wron-end!.csproj.AssemblyReference.cache
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\obj\Debug\net5.0\My_head_is_at-the_wron-end!.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\obj\Debug\net5.0\My_head_is_at-the_wron-end!.AssemblyInfoInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\obj\Debug\net5.0\My_head_is_at-the_wron-end!.AssemblyInfo.cs
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\obj\Debug\net5.0\My_head_is_at-the_wron-end!.csproj.CoreCompileInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\bin\Debug\net5.0\My_head_is_at-the_wron-end!.exe
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\bin\Debug\net5.0\My_head_is_at-the_wron-end!.deps.json
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\bin\Debug\net5.0\My_head_is_at-the_wron-end!.runtimeconfig.json
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\bin\Debug\net5.0\My_head_is_at-the_wron-end!.runtimeconfig.dev.json
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\bin\Debug\net5.0\My_head_is_at-the_wron-end!.dll
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\bin\Debug\net5.0\ref\My_head_is_at-the_wron-end!.dll
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\bin\Debug\net5.0\My_head_is_at-the_wron-end!.pdb
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\obj\Debug\net5.0\My_head_is_at-the_wron-end!.dll
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\obj\Debug\net5.0\ref\My_head_is_at-the_wron-end!.dll
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\obj\Debug\net5.0\My_head_is_at-the_wron-end!.pdb
+E:\Coding\C#\CodewarChallenge\kyu1\My_head_is_at-the_wron-end!\obj\Debug\net5.0\My_head_is_at-the_wron-end!.genruntimeconfig.cache
