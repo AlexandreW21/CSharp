@@ -1,0 +1,16 @@
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\obj\Debug\net5.0\Find_The_Odd_int.csproj.AssemblyReference.cache
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\obj\Debug\net5.0\Find_The_Odd_int.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\obj\Debug\net5.0\Find_The_Odd_int.AssemblyInfoInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\obj\Debug\net5.0\Find_The_Odd_int.AssemblyInfo.cs
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\obj\Debug\net5.0\Find_The_Odd_int.csproj.CoreCompileInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\bin\Debug\net5.0\Find_The_Odd_int.exe
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\bin\Debug\net5.0\Find_The_Odd_int.deps.json
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\bin\Debug\net5.0\Find_The_Odd_int.runtimeconfig.json
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\bin\Debug\net5.0\Find_The_Odd_int.runtimeconfig.dev.json
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\bin\Debug\net5.0\Find_The_Odd_int.dll
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\bin\Debug\net5.0\ref\Find_The_Odd_int.dll
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\bin\Debug\net5.0\Find_The_Odd_int.pdb
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\obj\Debug\net5.0\Find_The_Odd_int.dll
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\obj\Debug\net5.0\ref\Find_The_Odd_int.dll
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\obj\Debug\net5.0\Find_The_Odd_int.pdb
+E:\Coding\C#\CodewarChallenge\kyu6\Find_The_Odd_int\obj\Debug\net5.0\Find_The_Odd_int.genruntimeconfig.cache

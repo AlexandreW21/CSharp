@@ -1,0 +1,16 @@
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\obj\Debug\net5.0\Waiting_Room.csproj.AssemblyReference.cache
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\obj\Debug\net5.0\Waiting_Room.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\obj\Debug\net5.0\Waiting_Room.AssemblyInfoInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\obj\Debug\net5.0\Waiting_Room.AssemblyInfo.cs
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\obj\Debug\net5.0\Waiting_Room.csproj.CoreCompileInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\bin\Debug\net5.0\Waiting_Room.exe
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\bin\Debug\net5.0\Waiting_Room.deps.json
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\bin\Debug\net5.0\Waiting_Room.runtimeconfig.json
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\bin\Debug\net5.0\Waiting_Room.runtimeconfig.dev.json
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\bin\Debug\net5.0\Waiting_Room.dll
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\bin\Debug\net5.0\ref\Waiting_Room.dll
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\bin\Debug\net5.0\Waiting_Room.pdb
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\obj\Debug\net5.0\Waiting_Room.dll
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\obj\Debug\net5.0\ref\Waiting_Room.dll
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\obj\Debug\net5.0\Waiting_Room.pdb
+E:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\obj\Debug\net5.0\Waiting_Room.genruntimeconfig.cache

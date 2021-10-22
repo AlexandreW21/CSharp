@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Remove_Frist_and_Last_Caracter
-build_property.ProjectDir = e:\Coding\C#\CodewarChallenge\kyu8\Remove_Frist_and_Last_Caracter\
+build_property.RootNamespace = Waiting_Room
+build_property.ProjectDir = e:\Coding\C#\CodewarChallenge\kyu7\Waiting_Room\
