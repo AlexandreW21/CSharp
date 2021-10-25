@@ -1,0 +1,16 @@
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\obj\Debug\net5.0\Reversed_sequence.csproj.AssemblyReference.cache
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\obj\Debug\net5.0\Reversed_sequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\obj\Debug\net5.0\Reversed_sequence.AssemblyInfoInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\obj\Debug\net5.0\Reversed_sequence.AssemblyInfo.cs
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\obj\Debug\net5.0\Reversed_sequence.csproj.CoreCompileInputs.cache
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\bin\Debug\net5.0\Reversed_sequence.exe
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\bin\Debug\net5.0\Reversed_sequence.deps.json
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\bin\Debug\net5.0\Reversed_sequence.runtimeconfig.json
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\bin\Debug\net5.0\Reversed_sequence.runtimeconfig.dev.json
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\bin\Debug\net5.0\Reversed_sequence.dll
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\bin\Debug\net5.0\ref\Reversed_sequence.dll
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\bin\Debug\net5.0\Reversed_sequence.pdb
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\obj\Debug\net5.0\Reversed_sequence.dll
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\obj\Debug\net5.0\ref\Reversed_sequence.dll
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\obj\Debug\net5.0\Reversed_sequence.pdb
+E:\Coding\C#\CodewarChallenge\kyu8\Reversed_sequence\obj\Debug\net5.0\Reversed_sequence.genruntimeconfig.cache
